@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "766547559300",
+    "firebase_url": "https://gaav-f018a.firebaseio.com",
+    "project_id": "gaav-f018a",
+    "storage_bucket": "gaav-f018a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766547559300:android:6e85da967960996ed553d1",
+        "android_client_info": {
+          "package_name": "apartment.gruha.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMO8RLm4HunGGvZUQ0x7rc4Sn98MDCq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766547559300-gtmh06p6k11atq371gibsgdsa38q67n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realtyinvestorclub.gruham"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766547559300:android:336903e50a7e6d06d553d1",
+        "android_client_info": {
+          "package_name": "apartment.gruha.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMO8RLm4HunGGvZUQ0x7rc4Sn98MDCq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766547559300-gtmh06p6k11atq371gibsgdsa38q67n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realtyinvestorclub.gruham"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766547559300:android:b938250afd20dbf0d553d1",
+        "android_client_info": {
+          "package_name": "com.example.gruha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766547559300-e1b5kol4fpan2l9ms8i9kogbd69j9t4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gruha",
+            "certificate_hash": "4ba1e20da67a2ee2859a1d67cb6df4512f5d4744"
+          }
+        },
+        {
+          "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMO8RLm4HunGGvZUQ0x7rc4Sn98MDCq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766547559300-gtmh06p6k11atq371gibsgdsa38q67n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realtyinvestorclub.gruham"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766547559300:android:a91531efa1aa143cd553d1",
+        "android_client_info": {
+          "package_name": "com.example.ososlmtd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMO8RLm4HunGGvZUQ0x7rc4Sn98MDCq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766547559300-gtmh06p6k11atq371gibsgdsa38q67n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realtyinvestorclub.gruham"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766547559300:android:22937a57a36b624cd553d1",
+        "android_client_info": {
+          "package_name": "com.realtyinvestorclub.gruham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMO8RLm4HunGGvZUQ0x7rc4Sn98MDCq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766547559300-adu247kmnj5b7epmvknvsm4tdq23rmgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766547559300-gtmh06p6k11atq371gibsgdsa38q67n2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realtyinvestorclub.gruham"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

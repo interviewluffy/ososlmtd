@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFEB3B</color>
+    <color name="colorPrimaryDark">#FFCDDC39</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="learn_colorPrimary">#CBF7FF</color>
+    <color name="learn_colorPrimaryDark">#CBF7FF</color>
+    <color name="learn_colorAccent">#D81B60</color>
+    <color name="learn_light_sky_blue">#549AFC</color>
+</resources>
